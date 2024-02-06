@@ -1,0 +1,8 @@
+# .env file
+.env
+
+# any folder named models
+models/
+
+#any folder named faiss
+faiss/
