@@ -6,3 +6,7 @@ models/
 
 #any folder named faiss
 faiss/
+
+#any .pkl file or .faiss file
+*.pkl
+*.faiss
