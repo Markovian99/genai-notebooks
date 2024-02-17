@@ -10,3 +10,5 @@ faiss/
 #any .pkl file or .faiss file
 *.pkl
 *.faiss
+
+scratch/
