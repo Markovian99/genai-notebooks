@@ -15,5 +15,7 @@ faiss/
 #any .pkl file or .faiss file
 *.pkl
 *.faiss
+*.log
 
 scratch/
+Frameworks/
